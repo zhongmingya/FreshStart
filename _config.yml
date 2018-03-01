@@ -8,4 +8,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: techieshark/strongly-typed-jekylled
+theme: hacker
